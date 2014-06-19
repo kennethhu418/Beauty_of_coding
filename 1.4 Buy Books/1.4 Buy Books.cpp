@@ -356,6 +356,14 @@ int _tmain(int argc, _TCHAR* argv[])
 
     SetThreadAffinityMask(GetCurrentThread(),  0x1); //affine this program to core 1 to fully leverage L1 cache ability
 
+    /*******************************************************
+                                Output Parameters first
+    *******************************************************/
+    cout << "There are " << BOOK_KINDS << " different kinds of book." << endl;
+    cout << "Each book's price is " << BOOK_PRICE << endl;
+    for (int i = 0; i < BOOK_KINDS; i++)
+        cout << "If you buy "<< i + 1 << " book(s) together, you get a discount of "<<100 - DISCOUNT_ARRAY[i]*100<<"%."<< endl;
+
     Solution so(BOOK_KINDS, BOOK_PRICE, DISCOUNT_ARRAY);
     Solution_Brute_Force so_brute(BOOK_KINDS, BOOK_PRICE, DISCOUNT_ARRAY);
     double brute_result, our_result;
