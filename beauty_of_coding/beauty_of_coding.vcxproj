@@ -14,7 +14,7 @@
     <ProjectGuid>{2709FF26-C52D-404D-8139-D5DA601A5E2A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>beauty_of_coding</RootNamespace>
-    <ProjectName>CPU_Ultilization</ProjectName>
+    <ProjectName>1.1 CPU_Ultilization</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

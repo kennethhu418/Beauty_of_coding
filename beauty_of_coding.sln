@@ -3,12 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPU_Ultilization", "beauty_of_coding\beauty_of_coding.vcxproj", "{2709FF26-C52D-404D-8139-D5DA601A5E2A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1 CPU_Ultilization", "beauty_of_coding\beauty_of_coding.vcxproj", "{2709FF26-C52D-404D-8139-D5DA601A5E2A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EB57C29C-7DDE-4605-8AB3-345443271ED7}"
 	ProjectSection(SolutionItems) = preProject
 		Cracking_the_Code_Interview.docx = Cracking_the_Code_Interview.docx
 	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.2 Chess Position", "1.2 Chess Position\1.2 Chess Position.vcxproj", "{149E966C-CCF0-46B3-B1BD-F9B6BBBEA844}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.4 Buy Books", "1.4 Buy Books\1.4 Buy Books.vcxproj", "{10A216B6-20F9-47CA-A37D-ED86121CF580}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +24,14 @@ Global
 		{2709FF26-C52D-404D-8139-D5DA601A5E2A}.Debug|Win32.Build.0 = Debug|Win32
 		{2709FF26-C52D-404D-8139-D5DA601A5E2A}.Release|Win32.ActiveCfg = Release|Win32
 		{2709FF26-C52D-404D-8139-D5DA601A5E2A}.Release|Win32.Build.0 = Release|Win32
+		{149E966C-CCF0-46B3-B1BD-F9B6BBBEA844}.Debug|Win32.ActiveCfg = Debug|Win32
+		{149E966C-CCF0-46B3-B1BD-F9B6BBBEA844}.Debug|Win32.Build.0 = Debug|Win32
+		{149E966C-CCF0-46B3-B1BD-F9B6BBBEA844}.Release|Win32.ActiveCfg = Release|Win32
+		{149E966C-CCF0-46B3-B1BD-F9B6BBBEA844}.Release|Win32.Build.0 = Release|Win32
+		{10A216B6-20F9-47CA-A37D-ED86121CF580}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10A216B6-20F9-47CA-A37D-ED86121CF580}.Debug|Win32.Build.0 = Debug|Win32
+		{10A216B6-20F9-47CA-A37D-ED86121CF580}.Release|Win32.ActiveCfg = Release|Win32
+		{10A216B6-20F9-47CA-A37D-ED86121CF580}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
