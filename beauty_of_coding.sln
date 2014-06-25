@@ -7,6 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1 CPU_Ultilization", "bea
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EB57C29C-7DDE-4605-8AB3-345443271ED7}"
 	ProjectSection(SolutionItems) = preProject
+		F:\books\[编程之美].编程之美小组.扫描版.pdf = F:\books\[编程之美].编程之美小组.扫描版.pdf
 		Cracking_the_Code_Interview.docx = Cracking_the_Code_Interview.docx
 	EndProjectSection
 EndProject
