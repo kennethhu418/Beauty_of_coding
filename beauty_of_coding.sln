@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.5 Machine Failure", "1.5 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.6 Drink Supply", "1.6 Drink Supply\1.6 Drink Supply.vcxproj", "{08519456-9EA6-41DA-B41A-13DECF0CDAE1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.7  LightAndShadow", "1.7  LightAndShadow\1.7  LightAndShadow.vcxproj", "{608F846D-49A4-4B5B-B3A3-1EDE4298CD5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -45,6 +47,10 @@ Global
 		{08519456-9EA6-41DA-B41A-13DECF0CDAE1}.Debug|Win32.Build.0 = Debug|Win32
 		{08519456-9EA6-41DA-B41A-13DECF0CDAE1}.Release|Win32.ActiveCfg = Release|Win32
 		{08519456-9EA6-41DA-B41A-13DECF0CDAE1}.Release|Win32.Build.0 = Release|Win32
+		{608F846D-49A4-4B5B-B3A3-1EDE4298CD5F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{608F846D-49A4-4B5B-B3A3-1EDE4298CD5F}.Debug|Win32.Build.0 = Debug|Win32
+		{608F846D-49A4-4B5B-B3A3-1EDE4298CD5F}.Release|Win32.ActiveCfg = Release|Win32
+		{608F846D-49A4-4B5B-B3A3-1EDE4298CD5F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
