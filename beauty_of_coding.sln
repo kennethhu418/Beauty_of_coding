@@ -21,6 +21,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.6 Drink Supply", "1.6 Dri
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.7  LightAndShadow", "1.7  LightAndShadow\1.7  LightAndShadow.vcxproj", "{608F846D-49A4-4B5B-B3A3-1EDE4298CD5F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.1 Count1s", "2.1 Count1s\2.1 Count1s.vcxproj", "{30C88B94-143F-483E-836A-6D1AFE64DFDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.2 Factorial", "2.2 Factorial\2.2 Factorial.vcxproj", "{13D22DCB-551A-4F3B-A4D1-15E75DEE7671}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -51,6 +55,14 @@ Global
 		{608F846D-49A4-4B5B-B3A3-1EDE4298CD5F}.Debug|Win32.Build.0 = Debug|Win32
 		{608F846D-49A4-4B5B-B3A3-1EDE4298CD5F}.Release|Win32.ActiveCfg = Release|Win32
 		{608F846D-49A4-4B5B-B3A3-1EDE4298CD5F}.Release|Win32.Build.0 = Release|Win32
+		{30C88B94-143F-483E-836A-6D1AFE64DFDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30C88B94-143F-483E-836A-6D1AFE64DFDA}.Debug|Win32.Build.0 = Debug|Win32
+		{30C88B94-143F-483E-836A-6D1AFE64DFDA}.Release|Win32.ActiveCfg = Release|Win32
+		{30C88B94-143F-483E-836A-6D1AFE64DFDA}.Release|Win32.Build.0 = Release|Win32
+		{13D22DCB-551A-4F3B-A4D1-15E75DEE7671}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13D22DCB-551A-4F3B-A4D1-15E75DEE7671}.Debug|Win32.Build.0 = Debug|Win32
+		{13D22DCB-551A-4F3B-A4D1-15E75DEE7671}.Release|Win32.ActiveCfg = Release|Win32
+		{13D22DCB-551A-4F3B-A4D1-15E75DEE7671}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
