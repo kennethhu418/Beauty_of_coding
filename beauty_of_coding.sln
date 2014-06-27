@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.3 WaterKing", "2.3 WaterK
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.4 NumberOfOnes", "2.4 NumberOfOnes\2.4 NumberOfOnes.vcxproj", "{3BC46ACB-131D-4DBE-A898-93C3D04460F5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.5 FindKLargestNumber", "2.5 FindKLargestNumber\2.5 FindKLargestNumber.vcxproj", "{551D8097-7901-4362-A768-DC109CB010A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -75,6 +77,10 @@ Global
 		{3BC46ACB-131D-4DBE-A898-93C3D04460F5}.Debug|Win32.Build.0 = Debug|Win32
 		{3BC46ACB-131D-4DBE-A898-93C3D04460F5}.Release|Win32.ActiveCfg = Release|Win32
 		{3BC46ACB-131D-4DBE-A898-93C3D04460F5}.Release|Win32.Build.0 = Release|Win32
+		{551D8097-7901-4362-A768-DC109CB010A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{551D8097-7901-4362-A768-DC109CB010A1}.Debug|Win32.Build.0 = Debug|Win32
+		{551D8097-7901-4362-A768-DC109CB010A1}.Release|Win32.ActiveCfg = Release|Win32
+		{551D8097-7901-4362-A768-DC109CB010A1}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
