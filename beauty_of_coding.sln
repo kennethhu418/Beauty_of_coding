@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.4 NumberOfOnes", "2.4 Num
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.5 FindKLargestNumber", "2.5 FindKLargestNumber\2.5 FindKLargestNumber.vcxproj", "{551D8097-7901-4362-A768-DC109CB010A1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.7 Greatest Common Divisor", "2.7 Greatest Common Divisor\2.7 Greatest Common Divisor.vcxproj", "{5436B7CF-6284-4CC4-86E2-50D6CB7DCDA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -81,6 +83,10 @@ Global
 		{551D8097-7901-4362-A768-DC109CB010A1}.Debug|Win32.Build.0 = Debug|Win32
 		{551D8097-7901-4362-A768-DC109CB010A1}.Release|Win32.ActiveCfg = Release|Win32
 		{551D8097-7901-4362-A768-DC109CB010A1}.Release|Win32.Build.0 = Release|Win32
+		{5436B7CF-6284-4CC4-86E2-50D6CB7DCDA7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5436B7CF-6284-4CC4-86E2-50D6CB7DCDA7}.Debug|Win32.Build.0 = Debug|Win32
+		{5436B7CF-6284-4CC4-86E2-50D6CB7DCDA7}.Release|Win32.ActiveCfg = Release|Win32
+		{5436B7CF-6284-4CC4-86E2-50D6CB7DCDA7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
