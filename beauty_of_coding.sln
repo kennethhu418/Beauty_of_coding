@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.3 triangle cut in polygon
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.7 Ants Climbing", "4.7 Ants Climbing\4.7 Ants Climbing.vcxproj", "{BF50B3EC-1E61-433F-A0BC-F0B34CDA46AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.18 Segment Array", "2.18 Segment Array\2.18 Segment Array.vcxproj", "{78B817BA-11A8-4FF0-B11F-96E9F9BB0862}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -105,6 +107,10 @@ Global
 		{BF50B3EC-1E61-433F-A0BC-F0B34CDA46AF}.Debug|Win32.Build.0 = Debug|Win32
 		{BF50B3EC-1E61-433F-A0BC-F0B34CDA46AF}.Release|Win32.ActiveCfg = Release|Win32
 		{BF50B3EC-1E61-433F-A0BC-F0B34CDA46AF}.Release|Win32.Build.0 = Release|Win32
+		{78B817BA-11A8-4FF0-B11F-96E9F9BB0862}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78B817BA-11A8-4FF0-B11F-96E9F9BB0862}.Debug|Win32.Build.0 = Debug|Win32
+		{78B817BA-11A8-4FF0-B11F-96E9F9BB0862}.Release|Win32.ActiveCfg = Release|Win32
+		{78B817BA-11A8-4FF0-B11F-96E9F9BB0862}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
